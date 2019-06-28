@@ -1,5 +1,5 @@
 # hello-world
-A small test repository for me to learn how to use GitHub
+This repository small test repository for me to learn how to use GitHub.
 
 Welcome!
 
